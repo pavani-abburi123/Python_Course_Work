@@ -3,4 +3,4 @@ maxl=l[0]
 for i in range(1,len(l)):
     if l[i]>maxl:
         maxl=l[i]
-print('maximum: ',maxl)
+print('maximum number is: ',maxl)
